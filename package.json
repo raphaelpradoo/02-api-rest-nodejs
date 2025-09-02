@@ -16,5 +16,8 @@
     "url": "https://github.com/raphaelpradoo/02-api-rest-nodejs/issues"
   },
   "homepage": "https://github.com/raphaelpradoo/02-api-rest-nodejs#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
 }
