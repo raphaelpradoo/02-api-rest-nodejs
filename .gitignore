@@ -23,3 +23,6 @@ build/
 
 # SQLite
 db/app.db
+
+# .env Config
+.env
